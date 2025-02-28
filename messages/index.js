@@ -162,7 +162,7 @@ module.exports = {
     cs: "nemůže mít další položky",
     de: "darf keine zusätzlichen Attribute haben",
     es: "no debe tener propiedades adicionales",
-    eu: "ez du proipetate gehigarririk izan behar",
+    eu: "ez du propietate gehigarririk izan behar",
     fi: "ei saa sisältää ylimääräisiä ominaisuuksia",
     fr: "ne doit pas contenir de propriétés additionnelles",
     hu: "nem lehetnek további elemei",
